@@ -1,6 +1,8 @@
 # Primeiro Semestre - Engenharia de Software
 
-Primeiro Semestre do Curso de Engenharia de Software, Disciplina "Paradigmas de Linguagens de Programação em Python" (_DGT0286_)
+Primeiro Semestre do Curso de Engenharia de Software 
+<br/>
+Disciplina "Paradigmas de Linguagens de Programação em Python" (_DGT0286_)
 
 
 
